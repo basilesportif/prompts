@@ -16,7 +16,9 @@ Your plan should be structured as follows:
 
 
 Here is the feature to implement:
-{{feature_description}}
+<feature_description>
+
+</feature_description>
 
 
 
